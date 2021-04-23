@@ -33,15 +33,15 @@ Just try the free version, and if you like it, a small fee is all you need to pa
 - the app support opening PDF files(only in paid version of the app)
 
 ## screen shots
-![screen shot1](assets/imo1.png)
-![screen shot2](assets/imo2.png)
-![screen shot3](assets/imo3.png)
-![screen shot4](assets/imo4.png)
-![screen shot5](assets/imo5.png)
-![screen shot6](assets/imo6.png)
-![screen shot7](assets/imo7.png)
-![screen shot8](assets/imo8.png)
-![screen shot9](assets/imo9.png)
+![screen shot1](assets/imo1.jpg)
+![screen shot2](assets/imo2.jpg)
+![screen shot3](assets/imo3.jpg)
+![screen shot4](assets/imo4.jpg)
+![screen shot5](assets/imo5.jpg)
+![screen shot6](assets/imo6.jpg)
+![screen shot7](assets/imo7.jpg)
+![screen shot8](assets/imo8.jpg)
+![screen shot9](assets/imo9.jpg)
 
 
 ## some thing to note!
