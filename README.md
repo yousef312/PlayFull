@@ -1,4 +1,5 @@
 # PlayFull
+![app logo](assets/app-logo.png)
 A Media Player,
 
 "it doesn't just play your movie, but actually make you even closer to it!"
